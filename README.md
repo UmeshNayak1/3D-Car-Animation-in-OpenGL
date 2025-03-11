@@ -8,12 +8,6 @@ This program is written in C++ programming language using OpenGL library.
 
 Keyboard interactions are explained in the code only.
 
-
-📌 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
 👏 Thank You!
 
 Thank you for visiting my project! I appreciate your interest and support. 
