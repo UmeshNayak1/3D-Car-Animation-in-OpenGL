@@ -6,7 +6,8 @@ Also, change car from standing mode to driving mode and many more features.
 
 This program is written in C++ programming language using OpenGL library.
 
-Keyboard interactions are explained in the code only.
+🎮 Keyboard Interactions
+Keyboard interactions are explained in the code as well as the report PDF.
 
 👏 Thank You!
 
